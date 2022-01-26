@@ -25,3 +25,11 @@ a:link {
 a:visited {
   color: wheat;
 }
+
+.email {
+  color: rgb(106, 106, 255);
+}
+
+img {
+  background-color: white;
+}
