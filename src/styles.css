@@ -1,0 +1,8 @@
+body {
+  background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+h1 {
+  font-family: "Caveat", cursive;
+  text-align: center;
+  font-size: 100px;
+}
