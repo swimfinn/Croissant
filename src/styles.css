@@ -2,7 +2,8 @@ body {
   background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
 }
 h1,
-p {
+p,
+a {
   font-family: "Caveat", cursive;
   text-align: center;
   color: white;
@@ -12,4 +13,8 @@ p {
   font-size: 24px;
   display: block;
   margin: 30px;
+}
+
+a {
+  text-decoration: none;
 }
