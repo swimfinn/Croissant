@@ -10,12 +10,8 @@ a {
   color: white;
 }
 
-h1 {
-  font-size: 200px;
-}
-
 p {
-  font-size: 30px;
+  font-size: 24px;
   display: block;
   margin: 30px auto;
 }
